@@ -1,0 +1,3 @@
+My name is a student.
+I am learning Git and GitHub.
+Today I am practicing Git commands.
